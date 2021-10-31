@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![](https://vistr.dev/badge?repo=AlvaroVasconcelos)
-[![](https://img.shields.io/badge/-AlvaroVasconcelos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nick-chapsas/)](https://www.linkedin.com/in/vasconcelosdev/)
+[![](https://img.shields.io/badge/-AlvaroVasconcelos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vasconcelosdev/)](https://www.linkedin.com/in/vasconcelosdev/)
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
