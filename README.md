@@ -3,7 +3,6 @@
 
 ### Hi there 👋
 
-- 🔭 I maintain the [Flutterando](https://github.com/Flutterando)
 - 🎮 I'm learning how to make MMORPG games
 - 🧑‍💻 I’m looking to collaborate on open source projects
 - 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev).
